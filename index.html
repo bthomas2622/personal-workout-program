@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym Program</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Gym Program</h1>
+            <p class="current-period" id="currentPeriod"></p>
+            <div class="period-buttons">
+                <button class="period-btn" data-period="0">Jan-Feb</button>
+                <button class="period-btn" data-period="1">Mar-Apr</button>
+                <button class="period-btn" data-period="2">May-Jun</button>
+                <button class="period-btn" data-period="3">Jul-Aug</button>
+                <button class="period-btn" data-period="4">Sep-Oct</button>
+                <button class="period-btn" data-period="5">Nov-Dec</button>
+            </div>
+        </header>
+
+        <div class="workouts-container">
+            <div class="workout-card">
+                <h2 id="workout1Title">Workout A</h2>
+                <div class="workout-content" id="workout1Content">
+                    <p>Loading...</p>
+                </div>
+            </div>
+
+            <div class="workout-card">
+                <h2 id="workout2Title">Workout B</h2>
+                <div class="workout-content" id="workout2Content">
+                    <p>Loading...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

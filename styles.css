@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #56ab2f 0%, #a8e063 100%);
+    min-height: 100vh;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.current-period {
+    font-size: 1.2rem;
+    opacity: 0.95;
+    margin-bottom: 20px;
+}
+
+.period-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.period-btn {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+}
+
+.period-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.8);
+    transform: translateY(-2px);
+}
+
+.period-btn.active {
+    background: white;
+    color: #2d5016;
+    border-color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.workouts-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.workout-card {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.workout-card h2 {
+    color: #2d5016;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #2d5016;
+}
+
+.workout-content {
+    line-height: 1.6;
+}
+
+.workout-section {
+    margin-bottom: 30px;
+}
+
+.workout-section h3 {
+    color: #56ab2f;
+    font-size: 1.4rem;
+    margin-bottom: 12px;
+    margin-top: 20px;
+}
+
+.workout-section h3:first-child {
+    margin-top: 0;
+}
+
+.exercise-list {
+    list-style: none;
+    padding: 0;
+}
+
+.exercise-list li {
+    padding: 8px 0;
+    padding-left: 20px;
+    position: relative;
+    font-size: 1rem;
+}
+
+.exercise-list li:before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #56ab2f;
+    font-weight: bold;
+}
+
+.exercise-name {
+    font-weight: 600;
+    color: #333;
+}
+
+.exercise-details {
+    color: #666;
+    margin-left: 5px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .workouts-container {
+        grid-template-columns: 1fr;
+    }
+    
+    header h1 {
+        font-size: 2rem;
+    }
+    
+    .workout-card {
+        padding: 20px;
+    }
+    
+    .workout-card h2 {
+        font-size: 1.5rem;
+    }
+}
