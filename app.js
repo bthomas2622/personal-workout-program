@@ -2,7 +2,8 @@
 const workoutData = {
     A: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Hip Adductor + Abductor
+Diapharagmatic Breathing + Core Activation (DNS)
+Hip Activation
 Plank + Dead Bug + Bird Dog + Side Plank
 Main Workout (sets x reps)
 Seated Calf Raise - 1 x 10
@@ -15,31 +16,35 @@ Chin Ups - 3 x to failure
 DB Z-Press - 2 x 8-12
 Pike Pulse - 2 x 20
 Cooldown
+Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
 Piriformis Push-up - 1 x 20 per side
 Standing Pancake Pulse - 1 x 20`,
     
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Hip Adductor + Abductor
+Diapharagmatic Breathing + Core Activation (DNS)
+Hip Activation
 Plank + Dead Bug + Bird Dog + Side Plank
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x 10
 Tibialis Raise - 1 x 20 or to failure
 Poliquin Step-up - 1 x 8 per side
-Goblet Squat - 4 x 6-12
+Goblet Squat - 4 x 6-12 (to be replaced)
 Glute Bridge - 3 x 8-15
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
 Cooldown
+Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
 Piriformis Push-up - 1 x 20 per side
 Elephant Walk - 1 x 20 per side`,
     
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Hip Adductor + Abductor
+Diapharagmatic Breathing + Core Activation (DNS)
+Hip Activation
 Scapula Pushup + Scapula Pullup + Dead Bug + Bird Dog
 Main Workout (sets x reps)
 Seated Calf Raise - 1 x 10
@@ -52,24 +57,27 @@ Lat Pulldown - 3 x 8-12
 Curl to Shoulder Press - 2 x 8-12
 TBD Hip Exercise - 2 x 20
 Cooldown
+Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
 Piriformis Push-up - 1 x 20 per side
 Standing Pancake Pulse - 1 x 20`,
     
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Hip Adductor + Abductor
+Diapharagmatic Breathing + Core Activation (DNS)
+Hip Activation
 Plank + Dead Bug + Bird Dog + Side Plank
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x 10
 Tibialis Raise - 1 x 20 or to failure
 Poliquin Step-up - 1 x 8 per side
-Goblet Squat Heel Elevated - 4 x 6-12
+Goblet Squat Heel Elevated - 4 x 6-12 (to be replaced)
 Step-ups - 3 x 6-10 per side
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
 Cooldown
+Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
 Piriformis Push-up - 1 x 20 per side
 Elephant Walk - 1 x 20 per side`
