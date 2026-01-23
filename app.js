@@ -14,7 +14,6 @@ Hamstring Curl - 4 x 6
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
 DB Z-Press - 2 x 8-12
-Pike Pulse - 2 x 20
 Cooldown
 Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
@@ -55,7 +54,6 @@ Single Leg DB Deadlift - 4 x 8-10 per side
 Skullcrusher + Pullover - 3 x 8-12
 Lat Pulldown - 3 x 8-12
 Curl to Shoulder Press - 2 x 8-12
-TBD Hip Exercise - 2 x 20
 Cooldown
 Diapharagmatic Breathing
 Couch Stretch - 1 x 45 secs per side
