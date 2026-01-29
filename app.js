@@ -2,83 +2,74 @@
 const workoutData = {
     A: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Diapharagmatic Breathing + Core Activation (DNS)
+Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Hip Activation
-Plank + Dead Bug + Bird Dog + Side Plank
+Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Seated Calf Raise - 1 x 10
+Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Poliquin Step-up - 1 x 8 per side
-ATG Split Squat - 4 x 8 per side
-Hamstring Curl - 4 x 6
+Poliquin Step-up (Hip Hinged) - 2 x 8 per side
+ATG Split Squat - 3 x 8 per side
+Hamstring Curl - 3 x 8
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
-DB Z-Press - 2 x 8-12
+Standing DB Shoulder Press - 2 x 10
 Cooldown
-Diapharagmatic Breathing
-Couch Stretch - 1 x 45 secs per side
-Piriformis Push-up - 1 x 20 per side
-Standing Pancake Pulse - 1 x 20`,
+Diaphragmatic Breathing (1 min)`,
     
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Diapharagmatic Breathing + Core Activation (DNS)
+Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Hip Activation
-Plank + Dead Bug + Bird Dog + Side Plank
+Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x 10
-Tibialis Raise - 1 x 20 or to failure
-Poliquin Step-up - 1 x 8 per side
-Goblet Squat - 4 x 6-12 (to be replaced)
-Glute Bridge - 3 x 8-15
+Standing Calf Raise - 1 x to failure
+Tibialis Raise - 1 x to failure
+Single Leg Glute Bridge - 3 x 12
+Patrick Step-up - 3 x 10 per side
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
 Cooldown
-Diapharagmatic Breathing
-Couch Stretch - 1 x 45 secs per side
-Piriformis Push-up - 1 x 20 per side
-Elephant Walk - 1 x 20 per side`,
+Diaphragmatic Breathing (1 min)`,
     
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Diapharagmatic Breathing + Core Activation (DNS)
+Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Hip Activation
-Scapula Pushup + Scapula Pullup + Dead Bug + Bird Dog
+Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Seated Calf Raise - 1 x 10
+Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Poliquin Step-up - 1 x 8 per side
-Deficit Reverse Lunge - 3 x 8-12 per side
-Single Leg DB Deadlift - 4 x 8-10 per side
-Skullcrusher + Pullover - 3 x 8-12
-Lat Pulldown - 3 x 8-12
-Curl to Shoulder Press - 2 x 8-12
+Reverse Lunge (Hinged) - 2 x 10 per side
+Reverse Lunge - 2 x 10 per side
+Single Leg DB Deadlift - 4 x 8 per side
+Skullcrusher + Pullover - 3 x 10
+Lat Pulldown - 3 x 10
+Curl to Shoulder Press - 2 x 10
 Cooldown
-Diapharagmatic Breathing
-Couch Stretch - 1 x 45 secs per side
-Piriformis Push-up - 1 x 20 per side
-Standing Pancake Pulse - 1 x 20`,
+Diaphragmatic Breathing (1 min)`,
     
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
-Diapharagmatic Breathing + Core Activation (DNS)
+Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Hip Activation
-Plank + Dead Bug + Bird Dog + Side Plank
+Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x 10
-Tibialis Raise - 1 x 20 or to failure
-Poliquin Step-up - 1 x 8 per side
-Goblet Squat Heel Elevated - 4 x 6-12 (to be replaced)
-Step-ups - 3 x 6-10 per side
+Standing Calf Raise - 1 x to failure
+Tibialis Raise - 1 x to failure
+Poliquin Step-up (Hip Hinged) - 1 x 8 per side
+Step-ups (Hip Hinged) - 2 x 10 per side
+Step-ups - 2 x 10 per side
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
 Cooldown
-Diapharagmatic Breathing
-Couch Stretch - 1 x 45 secs per side
-Piriformis Push-up - 1 x 20 per side
-Elephant Walk - 1 x 20 per side`
+Diaphragmatic Breathing (1 min)`
 };
 
 // Track manually selected period (null = use current month)
