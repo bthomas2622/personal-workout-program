@@ -14,7 +14,7 @@ ATG Split Squat - 3 x 8 per side
 Hamstring Curl - 3 x 8
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
-Standing DB Shoulder Press - 2 x 10
+Z-Press - 2 x 10
 Cooldown
 Diaphragmatic Breathing (1 min)`,
     
