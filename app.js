@@ -4,7 +4,7 @@ const workoutData = {
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Activation
+Hip Walks + Clamshell Series
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
@@ -22,13 +22,13 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Activation
+Hip Walks + Clamshell Series
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Single Leg Glute Bridge - 3 x 12
-Patrick Step-up - 3 x 10 per side
+Glute Bridge - 3 x 12
+Goblet Squat - 3 x 10
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
@@ -39,7 +39,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Activation
+Hip Walks + Clamshell Series
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
@@ -57,7 +57,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Activation
+Hip Walks + Clamshell Series
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
