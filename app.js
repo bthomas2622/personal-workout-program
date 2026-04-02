@@ -22,7 +22,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Clamshell Series
+Hip Walks + Hip Star
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
@@ -46,7 +46,7 @@ Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
 Reverse Lunge (Hinged) - 2 x 10 per side
 Reverse Lunge - 2 x 10 per side
-Single Leg DB Deadlift - 4 x 8 per side
+Hip Hinge - 3 x 8 per side
 Skullcrusher + Pullover - 3 x 10
 Lat Pulldown - 3 x 10
 Curl to Shoulder Press - 2 x 10
@@ -57,7 +57,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Clamshell Series
+Hip Walks + Hip Star
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
