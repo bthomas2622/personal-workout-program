@@ -27,7 +27,8 @@ Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
 Goblet Squat - 3 x 10
-Glute Bridge - 3 x 12
+Hip Hinge - 3 x 8
+Glute Bridge - 3 x 10
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
@@ -43,9 +44,8 @@ Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Reverse Lunge (Hinged) - 2 x 10 per side
-Reverse Lunge - 2 x 10 per side
-KB Hip Hinge - 3 x 8 per side
+Reverse Lunge - 3 x 10 per side
+Hip Hinge - 3 x 8
 Skullcrusher + Pullover - 3 x 10
 Lat Pulldown - 3 x 10
 Curl to Shoulder Press - 2 x 10
@@ -61,9 +61,8 @@ Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Step-ups (Hip Hinged) - 2 x 10 per side
-Step-ups - 2 x 10 per side
-KB Hip Hinge - 3 x 8 per side
+Step-ups - 3 x 10 per side
+Hip Hinge - 3 x 8 per side
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
