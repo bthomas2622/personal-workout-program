@@ -3,14 +3,15 @@ const workoutData = {
     A: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Clamshell Series
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-ATG Split Squat - 3 x 8 per side
-Hamstring Curl - 3 x 8
+Hip Thrusts - 3 x 10
+Goblet Squat - 3 x 10
+Hip Hinge - 3 x 10
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
 Z-Press - 2 x 10
@@ -20,15 +21,15 @@ Diaphragmatic Breathing (1 min)`,
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Hip Star
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Goblet Squat - 3 x 10
-Hip Hinge - 3 x 8
-Glute Bridge - 3 x 10
+Hip Thrusts - 3 x 10
+Step Ups - 3 x 10 per side
+Hamstring Curl - 3 x 10
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
@@ -38,14 +39,15 @@ Diaphragmatic Breathing (1 min)`,
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Clamshell Series
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Reverse Lunge - 3 x 10 per side
-Hip Hinge - 3 x 8
+Hip Thrusts - 3 x 10
+Goblet Squat - 3 x 10
+Hip Hinge - 3 x 10
 Skullcrusher + Pullover - 3 x 10
 Lat Pulldown - 3 x 10
 Curl to Shoulder Press - 2 x 10
@@ -55,14 +57,15 @@ Diaphragmatic Breathing (1 min)`,
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
-Hip Walks + Hip Star
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
 Standing Calf Raise - 1 x to failure
 Tibialis Raise - 1 x to failure
-Step-ups - 3 x 10 per side
-Hip Hinge - 3 x 8 per side
+Hip Thrusts - 3 x 10
+Step Ups - 3 x 10 per side
+Hamstring Curl - 3 x 10
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
