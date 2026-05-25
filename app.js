@@ -3,11 +3,12 @@ const workoutData = {
     A: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x to failure
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Goblet Squat - 3 x 10
@@ -21,11 +22,12 @@ Diaphragmatic Breathing (1 min)`,
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x to failure
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Step Ups - 3 x 10 per side
@@ -39,11 +41,12 @@ Diaphragmatic Breathing (1 min)`,
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x to failure
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Goblet Squat - 3 x 10
@@ -57,11 +60,12 @@ Diaphragmatic Breathing (1 min)`,
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Coppenhagen Plank
+DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
 Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup
 Main Workout (sets x reps)
-Standing Calf Raise - 1 x to failure
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Step Ups - 3 x 10 per side
