@@ -11,7 +11,7 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
-Goblet Squat - 3 x 10
+Heel Elevated Bodyweight Squat - 3 x to failure 
 Hip Hinge - 3 x 10
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
@@ -49,7 +49,7 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
-Goblet Squat - 3 x 10
+Heel Elevated Bodyweight Squat - 3 x to failure 
 Hip Hinge - 3 x 10
 Skullcrusher + Pullover - 3 x 10
 Lat Pulldown - 3 x 10
