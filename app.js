@@ -12,7 +12,6 @@ Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Heel Elevated Bodyweight Squat - 3 x to failure 
-Hip Hinge - 3 x 10
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
 Z-Press - 2 x 10
@@ -29,7 +28,6 @@ Main Workout (sets x reps)
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
-Hip Thrusts - 3 x 10
 Step Ups - 3 x 10 per side
 Hamstring Curl - 3 x 10
 Incline DB Press - 3 x 10
@@ -48,7 +46,6 @@ Main Workout (sets x reps)
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
-Hip Thrusts - 3 x 10
 Heel Elevated Bodyweight Squat - 3 x to failure 
 Hip Hinge - 3 x 10
 Skullcrusher + Pullover - 3 x 10
@@ -69,7 +66,6 @@ Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Step Ups - 3 x 10 per side
-Hamstring Curl - 3 x 10
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
