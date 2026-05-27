@@ -3,27 +3,28 @@ const workoutData = {
     A: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
+Dead Bug + Bird Dog
 Clamshell Series + Banded Hip Walk
-Scapula Pushup + Scapula Pullup
+Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
-Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
-Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Heel Elevated Bodyweight Squat - 3 x to failure 
 Dip - 3 x to failure
 Chin Ups - 3 x to failure
 Z-Press - 2 x 10
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
+Tibialis Raise - 1 x to failure
 Cooldown
+DNS 4.5 Plank + Plank + Side Plank
 Diaphragmatic Breathing (1 min)`,
     
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
+Dead Bug + Bird Dog
 Clamshell Series + Banded Hip Walk
-Scapula Pushup + Scapula Pullup
+Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
@@ -33,43 +34,49 @@ Hamstring Curl - 3 x 10
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
+Tibialis Raise - 1 x to failure
 Cooldown
+DNS 4.5 Plank + Plank + Side Plank
 Diaphragmatic Breathing (1 min)`,
     
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
+Dead Bug + Bird Dog
 Clamshell Series + Banded Hip Walk
-Scapula Pushup + Scapula Pullup
+Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
-Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
-Tibialis Raise - 1 x to failure
 Heel Elevated Bodyweight Squat - 3 x to failure 
 Hip Hinge - 3 x 10
 Skullcrusher + Pullover - 3 x 10
 Lat Pulldown - 3 x 10
 Curl to Shoulder Press - 2 x 10
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
+Tibialis Raise - 1 x to failure
 Cooldown
+DNS 4.5 Plank + Plank + Side Plank
 Diaphragmatic Breathing (1 min)`,
     
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
-DNS 4.5 Plank + Plank + Dead Bug + Bird Dog + Side Plank
+Dead Bug + Bird Dog
 Clamshell Series + Banded Hip Walk
-Scapula Pushup + Scapula Pullup
+Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
-Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
-Tibialis Raise - 1 x to failure
 Hip Thrusts - 3 x 10
 Step Ups - 3 x 10 per side
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
+Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
+Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
+Tibialis Raise - 1 x to failure
 Cooldown
+DNS 4.5 Plank + Plank + Side Plank
 Diaphragmatic Breathing (1 min)`
 };
 
