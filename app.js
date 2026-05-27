@@ -86,27 +86,16 @@ let selectedPeriod = null;
 // Determine which workouts to display based on current month or selected period
 function getWorkoutsForMonth() {
     const now = new Date();
-    const month = selectedPeriod !== null ? selectedPeriod * 2 : now.getMonth(); // 0-11 (Jan = 0, Dec = 11)
-    
-    // Jan(0)-Feb(1): A & B
-    // Mar(2)-Apr(3): C & D
-    // May(4)-Jun(5): A & B
-    // Jul(6)-Aug(7): C & D
-    // Sep(8)-Oct(9): A & B
-    // Nov(10)-Dec(11): C & D
-    
-    if (month >= 0 && month <= 1) {
-        return { workout1: 'A', workout2: 'B', name1: 'A', name2: 'B', period: 'January - February' };
-    } else if (month >= 2 && month <= 3) {
-        return { workout1: 'C', workout2: 'D', name1: 'C', name2: 'D', period: 'March - April' };
-    } else if (month >= 4 && month <= 5) {
-        return { workout1: 'A', workout2: 'B', name1: 'A', name2: 'B', period: 'May - June' };
-    } else if (month >= 6 && month <= 7) {
-        return { workout1: 'C', workout2: 'D', name1: 'C', name2: 'D', period: 'July - August' };
-    } else if (month >= 8 && month <= 9) {
-        return { workout1: 'A', workout2: 'B', name1: 'A', name2: 'B', period: 'September - October' };
+    const month = selectedPeriod !== null ? selectedPeriod : now.getMonth(); // 0-11 (Jan = 0, Dec = 11)
+
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+        'July', 'August', 'September', 'October', 'November', 'December'];
+
+    // Alternate every month: even months (Jan, Mar, ...) A & B, odd months (Feb, Apr, ...) C & D
+    if (month % 2 === 0) {
+        return { workout1: 'A', workout2: 'B', name1: 'A', name2: 'B', period: monthNames[month] };
     } else {
-        return { workout1: 'C', workout2: 'D', name1: 'C', name2: 'D', period: 'November - December' };
+        return { workout1: 'C', workout2: 'D', name1: 'C', name2: 'D', period: monthNames[month] };
     }
 }
 
@@ -193,7 +182,7 @@ function loadWorkouts() {
 // Update active button styling
 function updateActiveButton() {
     const buttons = document.querySelectorAll('.period-btn');
-    const currentPeriodIndex = selectedPeriod !== null ? selectedPeriod : Math.floor(new Date().getMonth() / 2);
+    const currentPeriodIndex = selectedPeriod !== null ? selectedPeriod : new Date().getMonth();
     
     buttons.forEach((btn, index) => {
         if (index === currentPeriodIndex) {
