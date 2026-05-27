@@ -26,9 +26,6 @@ Dead Bug + Bird Dog
 Clamshell Series + Banded Hip Walk
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
-Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
-Tibialis Raise - 1 x to failure
 Step Ups - 3 x 10 per side
 Hamstring Curl - 3 x 10
 Incline DB Press - 3 x 10
