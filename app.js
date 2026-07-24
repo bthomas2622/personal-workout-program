@@ -4,7 +4,7 @@ const workoutData = {
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Hip Walk
+Clamshell Series + Banded Single Leg Glute Bridge
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
@@ -23,7 +23,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Hip Walk
+Clamshell Series + Banded Single Leg Glute Bridge
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Step Ups - 3 x 10 per side
@@ -42,7 +42,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Hip Walk
+Clamshell Series + Banded Single Leg Glute Bridge
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Heel Elevated Bodyweight Squat - 3 x to failure 
@@ -61,7 +61,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Hip Walk
+Clamshell Series + Banded Single Leg Glute Bridge
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
