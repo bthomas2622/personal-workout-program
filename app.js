@@ -4,7 +4,7 @@ const workoutData = {
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Single Leg Glute Bridge
+Hip Warmup Stretches + Clamshell Side Plank
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
@@ -16,14 +16,14 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
-DNS 4.5 Plank + Plank + Side Plank
+DNS 4.5 Plank + Plank
 Diaphragmatic Breathing (1 min)`,
     
     B: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Single Leg Glute Bridge
+Hip Warmup Stretches + Clamshell Side Plank
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Step Ups - 3 x 10 per side
@@ -35,14 +35,14 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
-DNS 4.5 Plank + Plank + Side Plank
+DNS 4.5 Plank + Plank
 Diaphragmatic Breathing (1 min)`,
     
     C: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Single Leg Glute Bridge
+Hip Warmup Stretches + Clamshell Side Plank
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Heel Elevated Bodyweight Squat - 3 x to failure 
@@ -54,14 +54,14 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
-DNS 4.5 Plank + Plank + Side Plank
+DNS 4.5 Plank + Plank
 Diaphragmatic Breathing (1 min)`,
     
     D: `Warm-Up
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Clamshell Series + Banded Single Leg Glute Bridge
+Hip Warmup Stretches + Clamshell Side Plank
 Scapula Pushup + Scapula Pullup + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
@@ -73,7 +73,7 @@ Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
 Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
-DNS 4.5 Plank + Plank + Side Plank
+DNS 4.5 Plank + Plank
 Diaphragmatic Breathing (1 min)`
 };
 
