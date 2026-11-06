@@ -4,8 +4,8 @@ const workoutData = {
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Lunge Warmup + Banded Clamshell + Wall Clam Activations
-Scapula Pushup + Scapula Pullup + Supported Elevator Lunge + Pogos
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
 Heel Elevated Goblet Squat - 3 x to failure 
@@ -23,10 +23,10 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Lunge Warmup + Banded Clamshell + Wall Clam Activations
-Scapula Pushup + Scapula Pullup + Supported Elevator Lunge + Pogos
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
-Split Squat - 3 x 10 per side
+Single Leg Box Squat / Bulgarian Split Squat - 3 x 10 per side
 Hamstring Curl - 3 x 10
 Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
@@ -42,8 +42,8 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Lunge Warmup + Banded Clamshell + Wall Clam Activations
-Scapula Pushup + Scapula Pullup + Supported Elevator Lunge + Pogos
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Heel Elevated Goblet Squat - 3 x to failure 
 Hip Hinge - 3 x 10
@@ -62,11 +62,11 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Lunge Warmup + Banded Clamshell + Wall Clam Activations
-Scapula Pushup + Scapula Pullup + Supported Elevator Lunge + Pogos
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
-Split Squat - 3 x 10 per side
+Single Leg Box Squat / Bulgarian Split Squat - 3 x 10 per side
 Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
