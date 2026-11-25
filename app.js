@@ -4,7 +4,7 @@ const workoutData = {
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Hip Clock + Wall Clam Activations
 Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
@@ -13,7 +13,6 @@ Dip - 3 x to failure
 Chin Ups - 3 x to failure
 Z-Press - 2 x 10
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
 DNS 4.5 Plank + Plank
@@ -23,7 +22,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Hip Clock + Wall Clam Activations
 Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Single Leg Box Squat / Bulgarian Split Squat - 3 x 10 per side
@@ -32,7 +31,6 @@ Incline DB Press - 3 x 10
 Incline DB Row - 3 x 10
 DB External Rotation - 2 x 8
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
 DNS 4.5 Plank + Plank
@@ -42,7 +40,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Hip Clock + Wall Clam Activations
 Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Heel Elevated Goblet Squat - 3 x to failure 
@@ -52,7 +50,6 @@ Skullcrusher + Pullover - 2 x 10
 Lat Pulldown - 3 x 10
 Curl to Shoulder Press - 2 x 10
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
 DNS 4.5 Plank + Plank
@@ -62,7 +59,7 @@ Diaphragmatic Breathing (1 min)`,
 Backward Sled or Treadmill - 200 yards or 5 mins
 Diaphragmatic Breathing (1 min) + Core Activation (DNS) (1 min)
 Dead Bug + Bird Dog
-Hip Warmup Stretches + Dynamic Calf Warmup + Banded Clamshell + Wall Clam Activations
+Hip Warmup Stretches + Dynamic Calf Warmup + Banded Hip Clock + Wall Clam Activations
 Scapula Pushup + Scapula Pullup + Elevator Lunge + Single Leg RDL + Pogos
 Main Workout (sets x reps)
 Hip Thrusts - 3 x 10
@@ -71,7 +68,6 @@ Machine Chest Press - 3 x 10
 Cable Row - 3 x 10
 Face Pull - 2 x 8
 Standing Straight Leg Calf Raise w/ 3-4s eccentric - 1 x to failure
-Standing 30d Knee Bend Calf Raise w/ 3-4s eccentric - 1 x to failure
 Tibialis Raise - 1 x to failure
 Cooldown
 DNS 4.5 Plank + Plank
